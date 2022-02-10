@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1027" height="635" viewBox="0 0 1027 635">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#000101"/>
+      <stop offset="1" stop-color="#0183b3"/>
+    </linearGradient>
+    <clipPath id="clip-iPad_Nexus_9_3">
+      <rect width="1027" height="635"/>
+    </clipPath>
+  </defs>
+  <g id="iPad_Nexus_9_3" data-name="iPad, Nexus 9 – 3" clip-path="url(#clip-iPad_Nexus_9_3)">
+    <rect width="1027" height="635" fill="rgba(255,255,255,0)"/>
+    <ellipse id="Ellipse_2" data-name="Ellipse 2" cx="215.5" cy="208" rx="215.5" ry="208" transform="translate(299 48)" fill="url(#linear-gradient)"/>
+    <path id="Union_2" data-name="Union 2" d="M721.374,259.305V50.711H857.54V86.358H765.148v52.61h82.125v35.5H765.148v84.834Zm-51.426-50V35.765H607V0H777.677V35.765H713.869V209.3Z" transform="translate(-217.64 145.195)" fill="#fff"/>
+    <text id="FIT_TRACK" data-name="FIT TRACK" transform="translate(276 548)" fill="#005a7b" font-size="100" font-family="Rockwell-Bold, Rockwell" font-weight="700"><tspan x="0" y="0">FIT TRACK</tspan></text>
+  </g>
+</svg>
